@@ -13,6 +13,9 @@ You can install the package `fuma` from [GitHub Repository](https://github.com/q
 ``` r
 devtools::install_github("q1225634819/msETS")
 ```
+The structure of the project
+----------------------------
+![](project-structure.png)
 
 Usage
 -----
